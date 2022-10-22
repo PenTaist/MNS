@@ -13,3 +13,9 @@ Hello everyone ! Today I present to you MNS!
 MNS is a tool that will allow you to scan your local network to see the IP addresses (Private --> 192.168.X.X) of devices that are currently connected to the network.
 I know that there are a lot of tools like this that are 1000x more powerful than mine but I still decided to create this little tool simply because I had nothing better to do lol .
 With that, have a good day / evening everyone and have fun ;)
+
+
+
+Video :
+
+https://www.youtube.com/watch?v=9ywv2BMU78w

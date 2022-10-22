@@ -5,6 +5,8 @@ MNS est un outil qui vas vous permettre de scanner votre réseau local afin de v
 Je sais qu'il existe beacoup d'outils de ce genre qui sont 1000x plus puissant que le miens mais j'ai tout de même décidé de créer ce petit outil tout simplement car je n'avais rien d'autre de mieux à faire mdr.
 Sur ce, bonne journée / soirée à tous et amusez vous bien ;)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ENGLISH / ANGLAIS
 
 Hello everyone ! Today I present to you MNS!
